@@ -1,0 +1,23 @@
+#map {
+  height: 600px;
+}
+
+.info.legend {
+  background: white;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+.info.legend h4 {
+  margin: 0 0 5px;
+}
+
+.info.legend i {
+  width: 20px;
+  height: 20px;
+  margin-right: 5px;
+  display: inline-block;
+  vertical-align: middle;
+}
